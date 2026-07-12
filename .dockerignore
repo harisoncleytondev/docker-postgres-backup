@@ -8,5 +8,4 @@ venv/
 .gitignore
 *.dump
 temp/
-token.json
 README.md
